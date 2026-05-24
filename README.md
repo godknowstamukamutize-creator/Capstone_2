@@ -3,10 +3,10 @@
 **Notebook:** mutize_sales_analysis.ipynb
 
 ## Project Overview
-This project analyzes in-store sales data for EmporiUm, a fictional bookstore and retail chain. Using Python and Pandas, I examine two sales territories in the Northeast region and compare their performance across stores, product categories, and customer activity.
+This project analyzes in-store sales data for EmporiUm, a fictional bookstore and retail chain. Using Python and Pandas, I examine two sales territories in the East and Northeast region and compare their performance across stores, product categories, and customer activity.
 
 ## Sales Territories Analyzed
-- **Miami Vue** — Northeast New Jersey (Stores: Atlantic City, Bayonne, Cape May, Clifton, East Orange, Hackensack, Hoboken, Jersey City, Montclair, Morristown, New Brunswick, Newark, Passaic, Paterson, Trenton, Vineland)
+- **Miami Vue** — New Jersey (Stores: Atlantic City, Bayonne, Cape May, Clifton, East Orange, Hackensack, Hoboken, Jersey City, Montclair, Morristown, New Brunswick, Newark, Passaic, Paterson, Trenton, Vineland)
 - **See Ellefson** — New York (Stores: Albany, Buffalo, Elmira, Ithaca, Oswego, Plattsburgh, Poestenkill, Rochester, Syracuse, Brooklyn, New York, Queens)
 
 ## Contents
