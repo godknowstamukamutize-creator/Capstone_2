@@ -6,8 +6,14 @@
 This project analyzes in-store sales data for EmporiUm, a fictional bookstore and retail chain. Using Python and Pandas, I examine sales territories in the East region and analyze their performance across stores, product categories, and customer activity.
 
 ## Sales Territory Analyzed
-- **Ellen Lemon** — Connecticut (Stores: Bridgeport, Darien, Hartford, Litchfield County, New Haven, New London, Old Saybrook, Waterbury)
+This notebook provides a **Core Marketing Analysis** comparing the performance of two assigned sales territories:
 
+| Territory | Territory Manager | Region | States Covered |
+|-----------|------------------|--------|----------------|
+| **Connecticut** | Ellen Lemon | East | Connecticut (Stores 865–872) |
+| **New York** | See Ellefson | East | New York (Stores 840–851) |
+
+Both territories fall under **Region Director Ana Jilani** in the **East region**, making a direct comparison especially meaningful for the regional marketing team.
 ## Contents
 - `mutize_sales_analysis.ipynb` — Main analysis notebook
 - `StoreSales.csv` — Transaction-level sales data
