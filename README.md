@@ -31,7 +31,7 @@ Both territories fall under **Region Director Ana Jilani** in the **East region*
 6. Marketing recommendation for next quarter
 
 ## Video Walkthrough
-[Link coming soon]
+(https://1drv.ms/v/c/1aadc79da8212a75/IQBaaErOtcO_SJgoCepbyOK6AbpzNPYnGwTHyzrUnU8SS3I?e=PzcJeg)
 
 ## Tools Used
 Python, Pandas, Matplotlib, Jupyter Notebook
